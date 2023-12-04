@@ -1,0 +1,35 @@
+#yoga-container{
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-top: 5em;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
+#yoga-types{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: scroll;
+    width: 100%;
+}
+#yoga{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 1.5em;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 50vw;
+    border-radius: 0.3em;
+}
+#yoga:hover{
+    background: #2f5bad;
+    color: white;
+}
+#yoga-image{
+    margin-right: 10em;
+}

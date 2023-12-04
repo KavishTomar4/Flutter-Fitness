@@ -1,0 +1,50 @@
+#ready-container{
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-top: 5em;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#start-btn{
+    background: #2f5bad;
+    color: white;
+    border-radius: 0.3em;
+    border : 10px solid #2f5bad;
+    font-size: 0.5em;
+}
+#yoga-train-container{
+    margin-left: 20em;
+    margin-right: 20em;
+    background: white;
+    margin-top: 0em;
+    height: 80vh;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 1em;
+}
+#yoga-name{
+    font-size: 2em;
+    margin-left: 0.5em;
+}
+#time-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#time-controller{
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: center;
+}
+.control-btn{
+    margin-right: 0.3em;
+    color: white;
+    background: #2f5bad;
+    font-size: 1.4em;
+    border: 2px solid #2f5bad;
+} 

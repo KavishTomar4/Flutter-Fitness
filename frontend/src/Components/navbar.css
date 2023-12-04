@@ -1,0 +1,14 @@
+#navbar{
+
+    color: white;
+    background: #2f5bad;
+    height: 10vh;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#title{
+    margin: 0em;
+    font-size: 2em;
+    margin-left: 1em;
+    padding-top: 0.3em;
+   
+}
